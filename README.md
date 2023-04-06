@@ -1,7 +1,7 @@
 database yang digunakan adalah mysql (developer menggunakan mysql melalui xampp)
 nama database: paa01fix
 
-untuk membuat database, jalankan perintah: ./node_modules/.bin/knex
+untuk membuat database atau menjalankan knex, jalankan perintah: ./node_modules/.bin/knex
 
 jika knex tidak ditemukan, install terlebih dahulu knex menggunakan perintah: npm install knex mysql
 
