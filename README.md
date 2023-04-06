@@ -1,3 +1,8 @@
+database yang digunakan adalah mysql (developer menggunakan mysql melalui xampp)
+
+untuk membuat database, jalankan perintah: ./node_modules/.bin/knex
+jika knex tidak ditemukan, install terlebih dahulu knex menggunakan perintah: npm install knex mysql
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
