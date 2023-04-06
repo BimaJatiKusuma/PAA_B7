@@ -1,0 +1,22 @@
+{
+  "name": "tugas01",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "js-cookie": "^3.0.1",
+    "jsonwebtoken": "^9.0.0",
+    "knex": "^2.4.2",
+    "mysql": "^2.18.1",
+    "next": "13.2.4",
+    "next-cookies": "^2.0.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
